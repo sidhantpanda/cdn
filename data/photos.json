@@ -1,0 +1,10 @@
+{
+  "photos": [
+    {
+      "name": "India Gate",
+      "sizes": {
+        "origina": "images/india-gate/original.jpg"
+      }
+    }
+  ]
+}
