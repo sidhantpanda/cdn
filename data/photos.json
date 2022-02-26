@@ -3,7 +3,12 @@
     {
       "name": "India Gate",
       "sizes": {
-        "original": "images/india-gate/original.jpg"
+        "original": {
+          "h": 1125,
+          "w": 2000,
+          "size": 1535863,
+          "src": "images/india-gate/original.jpg"
+        }
       }
     }
   ]
