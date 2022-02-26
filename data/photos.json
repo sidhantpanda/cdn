@@ -32,6 +32,17 @@
           "src": "images/golden-gate/original.jpg"
         }
       }
+    },
+    {
+      "name": "Iceland",
+      "sizes": {
+        "original": {
+          "h": 2879,
+          "w": 4607,
+          "size": 9514814,
+          "src": "images/golden-gate/original.jpg"
+        }
+      }
     }
   ]
 }
