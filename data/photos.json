@@ -54,6 +54,17 @@
           "src": "images/jellyfish/original.jpg"
         }
       }
+    },
+    {
+      "name": "SF",
+      "sizes": {
+        "original": {
+          "h": 4512,
+          "w": 2538,
+          "size": 1300607,
+          "src": "images/sf/original.jpg"
+        }
+      }
     }
   ]
 }
