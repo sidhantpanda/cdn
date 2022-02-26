@@ -10,6 +10,17 @@
           "src": "images/india-gate/original.jpg"
         }
       }
+    },
+    {
+      "name": "Gulfoss",
+      "sizes": {
+        "original": {
+          "h": 1280,
+          "w": 2048,
+          "size": 2003315,
+          "src": "images/gulfoss/original.jpg"
+        }
+      }
     }
   ]
 }
