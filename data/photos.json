@@ -21,6 +21,17 @@
           "src": "images/gulfoss/original.jpg"
         }
       }
+    },
+    {
+      "name": "Golden Gate",
+      "sizes": {
+        "original": {
+          "h": 2501,
+          "w": 4446,
+          "size": 498764,
+          "src": "images/golden-gate/original.jpg"
+        }
+      }
     }
   ]
 }
